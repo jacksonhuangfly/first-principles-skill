@@ -1,0 +1,5 @@
+# Optional: only scripts/capture_web_source.py needs these dependencies.
+# Validation, transcript cleaning, and core offline tests use the standard library.
+requests
+beautifulsoup4
+pypdf
